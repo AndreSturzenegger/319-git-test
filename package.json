@@ -1,0 +1,29 @@
+{
+  "name": "09_gitintro",
+  "version": "1.0.0",
+  "description": "git intro package",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreSturzenegger/319-git-test.git"
+  },
+  "keywords": [
+    "git",
+    "319",
+    "sae",
+    "wdd"
+  ],
+  "author": "AS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreSturzenegger/319-git-test/issues"
+  },
+  "homepage": "https://github.com/AndreSturzenegger/319-git-test#readme"
+}
